@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_accountsett">
+    <Position X="23.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAIAkQBCBAABQgQACCAAECAAAAAAAgAAAgAgAAAAA=</HashCode>
+      <FileName>PAL\Controls\UC_accountsett.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_AddClass">
+    <Position X="17" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kiCRAAgQQCKZBBwAAACAQAgCAgoohEAggFQsAYBABAA=</HashCode>
+      <FileName>PAL\Controls\UC_AddClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_AddStudent">
+    <Position X="19.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACABAACAAiCgABBABACEAAACABggAQEAAAAAAQBCIAA=</HashCode>
+      <FileName>PAL\Controls\UC_AddStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_Attendance">
+    <Position X="15" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAFAAACBoBBASBYCACADiAwIIgQABIEIABYBBBAg=</HashCode>
+      <FileName>PAL\Controls\UC_Attendance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_Dashboard">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAGAAABAAAACAAAQCAAAAAAAAAAAAAQBAAAA=</HashCode>
+      <FileName>PAL\Controls\UC_Dashboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_Login">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAgCFgBACAAABAUAACAAAgiCAgggYhAAUAAAAAAABg=</HashCode>
+      <FileName>PAL\Controls\UC_Login.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_Reg">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAACGBAhxEgAAiQAACCABABAABAAAAAAAgQAAA=</HashCode>
+      <FileName>PAL\Controls\UC_Reg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Controls.UC_Report">
+    <Position X="21.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAgABASAYCAAADiAwAAgAAAAAAgAYBABAA=</HashCode>
+      <FileName>PAL\Controls\UC_Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Forms.ForgetPass">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIACACBAABAAAACAAAiCAAAAAAACAAQABABAAAk=</HashCode>
+      <FileName>PAL\Forms\ForgetPass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Forms.ResetPass">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAEACAAABAAAACCCACCgAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>PAL\Forms\Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Forms.LoginForm">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oBBAgFABACAAAhAAAAiAAgCCABghgYACACAIgQBCRQA=</HashCode>
+      <FileName>PAL\Forms\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="School_Attendance_Tracker_System.PAL.Forms.MainForm">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABgABICBADAAABAIOAGCEBmGAAACBCAgADAQAQFAiAE=</HashCode>
+      <FileName>PAL\Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

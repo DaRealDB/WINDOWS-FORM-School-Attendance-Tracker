@@ -1,0 +1,427 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|c:\\visual studio 2022\\projects\\school attendance tracker system\\school attendance tracker system\\pal\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|c:\\visual studio 2022\\projects\\school attendance tracker system\\school attendance tracker system\\pal\\controls\\uc_addclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_addclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_reg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_accountsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_accountsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\dataset1.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_addclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_addclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_accountsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_accountsett.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_addstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\controls\\uc_attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\controls\\uc_attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\school attendance tracker system\\pal\\forms\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B953231D-9DCE-40C2-A740-74A647F57FFD}|School Attendance Tracker System\\School Attendance Tracker System.csproj|solutionrelative:school attendance tracker system\\pal\\forms\\forgetpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:23:46.477Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_Login.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwIMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:45:42.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Reg.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Reg.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Reg.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Reg.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Reg.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwFQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:35:33.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Report.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Report.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Report.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Report.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Report.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:48:03.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgetPass.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:43:05.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:05:42.629Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UC_Dashboard.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:17:23.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\MainForm.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAI4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:00:35.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_AddClass.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIAwwLcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:49:59.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAA6wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:33:40.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UC_Attendance.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAkwIkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T03:50:19.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\Form1.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvy0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T14:24:59.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UC_AddStudent.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:40:31.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_accountsett.cs",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:30:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UC_AddClass.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_AddClass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-05-06T03:49:56.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataSet1.xsd",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\DataSet1.xsd",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\DataSet1.xsd",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\DataSet1.xsd",
+              "RelativeToolTip": "School Attendance Tracker System\\DataSet1.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-05-05T07:53:19.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_AddStudent.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_AddStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:40:29.872Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_accountsett.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_accountsett.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T04:51:57.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Login.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T03:07:24.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UC_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T13:50:20.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_Attendance.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Controls\\UC_Attendance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:30:49.6Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:55:35.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\ClassDiagram1.cd",
+              "RelativeToolTip": "School Attendance Tracker System\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-05-06T11:52:41.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ForgetPass.cs [Design]",
+              "DocumentMoniker": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs",
+              "RelativeDocumentMoniker": "School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs",
+              "ToolTip": "C:\\Visual Studio 2022\\Projects\\School Attendance Tracker System\\School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs [Design]",
+              "RelativeToolTip": "School Attendance Tracker System\\PAL\\Forms\\ForgetPass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:42:41.004Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

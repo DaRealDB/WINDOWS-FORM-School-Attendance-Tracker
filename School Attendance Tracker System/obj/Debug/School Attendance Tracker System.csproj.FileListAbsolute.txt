@@ -1,0 +1,97 @@
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\School Attendance Tracker System.exe.config
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\School Attendance Tracker System.exe
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\School Attendance Tracker System.pdb
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School Attendance Tracker System.csproj.AssemblyReference.cache
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Forms.LoginForm.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.Properties.Resources.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School Attendance Tracker System.csproj.GenerateResource.cache
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School Attendance Tracker System.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School Attendance Tracker System.exe
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School Attendance Tracker System.pdb
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Attendance.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Guna.UI2.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Forms.MainForm.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_AddClass.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_AddStudent.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_Attendance.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_Dashboard.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_Report.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_Login.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_Reg.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Data.OleDb.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Data.OleDb.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Forms.ForgetPass.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\db_user.accdb
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\user.accdb
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\SATDBS.accdb
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Controls.UC_accountsett.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Azure.Core.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Azure.Identity.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Identity.Client.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Buffers.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Memory.Data.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Memory.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Numerics.Vectors.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.AccessControl.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.Permissions.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.Principal.Windows.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Text.Encodings.Web.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Text.Json.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.ValueTuple.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Azure.Core.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Azure.Identity.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Identity.Client.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Buffers.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Memory.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Memory.Data.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Numerics.Vectors.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.AccessControl.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.Permissions.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Security.Principal.Windows.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Text.Encodings.Web.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Text.Json.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\System.ValueTuple.xml
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School_Attendance_Tracker_System.PAL.Forms.ResetPass.resources
+C:\Visual Studio 2022\Projects\School Attendance Tracker System\School Attendance Tracker System\obj\Debug\School A.A13FDD9D.Up2Date
